@@ -1,9 +1,3 @@
-<style>
-    .technologies {
-        background-color: rgba(224, 224, 255, 0.05);
-    }
-</style>
-
 # Hello! I'm Timur Skovorodnikov
 
 ## Languages and Tools:
