@@ -19,7 +19,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" /></a>  
-<p>DevOp and Testing</p>
+<p>DevOps and Testing</p>
+<a href="https://nunit.org/" target="_blank"><img style="margin: 5px" src="https://avatars.githubusercontent.com/u/2678858?s=200&v=4" alt="NUnit" height="40" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" /></a>
