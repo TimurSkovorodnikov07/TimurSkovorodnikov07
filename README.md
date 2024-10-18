@@ -29,6 +29,9 @@
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>
 <a href="https://unity.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="25" /></a>
 </div>
+#Stats:
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=m-breno&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=fab387&title_color=fab387&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-breno&bg_color=1e1e2e&text_color=cdd6f4&icon_color=fab387&title_color=fab387&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me:
 ### I am an ordinary guy from Kazakhstan, I would like to start working as a junior Full stack developer.
