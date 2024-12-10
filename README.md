@@ -9,7 +9,7 @@
 <a href="https://en.wikipedia.org/wiki/ASP.NET_Core"><img style="margin: 5px" src="https://codeopinion.com/wp-content/uploads/2017/06/Bitmap-MEDIUM_ASP.NET-Core-MVC-Logo_2colors_Square_Boxed_RGB.png" alt="asp.net" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Entity_Framework"><img style="margin: 5px" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB-150x150.png" alt=""ef core height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDb" height="40" /></a> 
 <a href="https://redis.io/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="40" /></a>
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="40" /></a>
 <p>Frontend:</p>
