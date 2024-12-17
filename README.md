@@ -20,7 +20,7 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" /></a>  
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 5px" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4" alt="Tailwind" height="40" /></a>  
 <p>DevOps and Testing</p>
-<a href="https://xunit.net/"  target="_blank"><img style="margin: 5px" src="https://github.com/xunit/media/blob/main/logo-256.png" alt="XUnit" height="40" /></a>
+<a href="https://xunit.net/"  target="_blank"><img style="margin: 5px" src="https://github.com/xunit/media/blob/main/logo-256-transparent.png" alt="XUnit" height="40" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>
 <p>I can be useful:</p>
