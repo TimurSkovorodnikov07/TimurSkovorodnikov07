@@ -25,7 +25,7 @@
 </div>
 
 ## About me:
-### I am an ordinary guy from Kazakhstan, I would like to start working as a junior Full stack developer.
+### I am an ordinary guy from Kazakhstan
 
 ## Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TimurSkovorodnikov07&show_icons=true&theme=tokyonight)
